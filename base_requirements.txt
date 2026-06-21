@@ -1,4 +1,5 @@
 icecream
 numpy
+scipy
 matplotlib
 networkx
